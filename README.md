@@ -1,6 +1,6 @@
 # Mendz.Graph.Representation
 ## Namespaces
-### Mendz.Graph.Representation
+### Graph.Representation
 #### Contents
 Name | Description
 ---- | -----------
